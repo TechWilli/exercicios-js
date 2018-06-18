@@ -13,7 +13,7 @@
 
 
 //Math.floor(Math.random() * 50) esse codigo gera numeros aleatorios entre 0 e 50
-let numero = Math.floor(Math.random() * 50);
+let numero = Math.floor(Math.random() * 51);
 let chances = 1;
 console.log(numero);
 let palpite = 25; //"palpite inicial"

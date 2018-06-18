@@ -6,3 +6,14 @@
 //ex: com @ # $ & ect..
 //
 //
+
+let tamanho = Number(prompt("qual o tamanho da escadinha?"));
+let material = prompt("qual o material da escada?");
+let escadinha = "";
+let contador = 0;
+
+while (contador < tamanho) {
+    escadinha = escadinha + material;
+    console.log(escadinha);
+    contador++;
+}

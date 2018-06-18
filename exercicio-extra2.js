@@ -1,0 +1,1 @@
+// transformar pelo menos dois dos exercicios em funções para deixar mais identado;
